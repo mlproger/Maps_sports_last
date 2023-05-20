@@ -15,3 +15,5 @@
 <p classname='text-xxl'>1)How to use JS, Express JS, React js</p>
 <p classname='text-xxl'>2)How to work with open APIs</p>
 <p classname='text-xxl'>3)How to basicly use HTML and CSS to customize projects</p>
+<p classname='text-xxl'>4)How to use Router navigator with React-router</p>
+<p classname='text-xxl'>5)How to basycli write backend coder</p>
